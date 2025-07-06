@@ -1,0 +1,14 @@
+C:\Users\mnylf\AtividadeAziz1\bin\Debug\net8.0\AtividadeAziz1.exe
+C:\Users\mnylf\AtividadeAziz1\bin\Debug\net8.0\AtividadeAziz1.deps.json
+C:\Users\mnylf\AtividadeAziz1\bin\Debug\net8.0\AtividadeAziz1.runtimeconfig.json
+C:\Users\mnylf\AtividadeAziz1\bin\Debug\net8.0\AtividadeAziz1.dll
+C:\Users\mnylf\AtividadeAziz1\bin\Debug\net8.0\AtividadeAziz1.pdb
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.AssemblyInfoInputs.cache
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.AssemblyInfo.cs
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.csproj.CoreCompileInputs.cache
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.dll
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\refint\AtividadeAziz1.dll
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.pdb
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\AtividadeAziz1.genruntimeconfig.cache
+C:\Users\mnylf\AtividadeAziz1\obj\Debug\net8.0\ref\AtividadeAziz1.dll
